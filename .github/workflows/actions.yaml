@@ -36,6 +36,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: $DOCKER_USERNAME/myapp:latest
+          tags: alh7867/myapp:latest
 
 
